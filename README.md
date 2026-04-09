@@ -20,7 +20,3 @@ This repository contains the implementation of A-DEC++, a neural network-based u
 - NMI, ARI
 - Silhouette Score
 - Davies-Bouldin Index
-
-
-## 👨‍💻 Author
-Nahid Hassan – BRAC University
